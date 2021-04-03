@@ -15,5 +15,19 @@
   "UiPath.UiAutomation.Activities.MicrosoftAzureComputerVisionOCR.ApiKey": "",
   "UiPath.UiAutomation.Activities.MicrosoftAzureComputerVisionOCR.Endpoint": "",
   "UiPath.UiAutomation.Activities.MicrosoftAzureComputerVisionOCR.Scale": "1",
-  "UiPath.UiAutomation.Activities.MicrosoftAzureComputerVisionOCR.Language": "AutoDetect"
+  "UiPath.UiAutomation.Activities.MicrosoftAzureComputerVisionOCR.Language": "AutoDetect",
+  "UiPath.OCR.Activities.UiPathScreenOCR.Endpoint": "https://ocr.uipath.com/",
+  "UiPath.OCR.Activities.UiPathScreenOCR.ApiKey": "",
+  "UiPath.OCR.Activities.UiPathDocumentOCR.Endpoint": "https://du.uipath.com/ocr",
+  "UiPath.OCR.Activities.UiPathDocumentOCR.ApiKey": "",
+  "UiPath.UiAutomation.Activities.AbbyyCloudOCR.ApplicationID": "",
+  "UiPath.UiAutomation.Activities.AbbyyCloudOCR.Password": "",
+  "UiPath.UiAutomation.Activities.AbbyyCloudOCR.ServerUrl": "",
+  "UiPath.UiAutomation.Activities.AbbyyCloudOCR.Scale": "1",
+  "UiPath.UiAutomation.Activities.AbbyyCloudOCR.Language": "English",
+  "UiPath.UiAutomation.Activities.AbbyyOCR.CorrectOrientation": "True",
+  "UiPath.UiAutomation.Activities.AbbyyOCR.CorrectSkew": "Auto",
+  "UiPath.UiAutomation.Activities.AbbyyOCR.Profile": "None",
+  "UiPath.UiAutomation.Activities.AbbyyOCR.Scale": "1",
+  "UiPath.UiAutomation.Activities.AbbyyOCR.Language": "English"
 }

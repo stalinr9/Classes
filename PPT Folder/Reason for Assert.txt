@@ -1,1 +1,0 @@
-The reason to do that is, in the Framework, it uses a get asset activity to read assets that are mentioned in the asset sheet. Since credential is a asset that should be read using get credential activity, it throws an error there…
